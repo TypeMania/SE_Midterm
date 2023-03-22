@@ -1,3 +1,1 @@
-<?php
-require('./controller/main.php');
-echo "End of index.php\n";
+<h1>Shaka George Elmore</h1>
